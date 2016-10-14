@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="general.sass" pinned="false" current-in-tab="true">
+      <file leaf-file-name="general.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/general.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54332554">
-              <caret line="123" column="41" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
+            <state vertical-scroll-proportion="-5.1372547">
+              <caret line="141" column="0" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.4166666">
-              <caret line="177" column="32" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.6365639">
+              <caret line="229" column="39" selection-start-line="229" selection-start-column="39" selection-end-line="229" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -58,8 +58,8 @@
         <option value="$PROJECT_DIR$/build/css/general.css" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/js/js.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sass/general.sass" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -69,8 +69,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="299" />
-    <option name="y" value="148" />
+    <option name="x" value="603" />
+    <option name="y" value="106" />
     <option name="width" value="886" />
     <option name="height" value="824" />
   </component>
@@ -271,7 +271,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="299" y="148" width="886" height="824" extended-state="0" />
+    <frame x="603" y="106" width="886" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18171558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -407,18 +407,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/sass/general.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4166666">
-          <caret line="177" column="32" selection-start-line="177" selection-start-column="32" selection-end-line="177" selection-end-column="32" />
+        <state vertical-scroll-proportion="-5.1372547">
+          <caret line="141" column="0" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/general.sass">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54332554">
-          <caret line="123" column="41" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.6365639">
+          <caret line="229" column="39" selection-start-line="229" selection-start-column="39" selection-end-line="229" selection-end-column="39" />
           <folding />
         </state>
       </provider>
