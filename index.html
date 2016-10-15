@@ -8,7 +8,10 @@
     <link rel="stylesheet" href="build/css/general.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+    <script src="build/js/compilation.js"></script>
+    <script src="https://use.fontawesome.com/827a1f756f.js"></script>
+    <script src="js/app.js"></script>
 </head>
 <body>
 <!-- NAVBAR
@@ -304,15 +307,16 @@
         </div>
         <div id="blog-menu" class="row">
             <div id="first-blog" class="blog-component col-xs-12 col-md-4 col-lg-4">
-                <div class="row">
+                <div class="row" ng-app="myBackend" ng-controller="BlogController">
                     <div id="first-blog-title" class="blog-title col-xs-12 col-md-12 col-lg-12">
                         <h5 class="blog-title">
-                            Rhubarb: The Vegetable That Acts Like a Fruit
-                            <br><br>
+                           {{title1}}
+                            Rhubarb: The Vegetable That Acts Like a fruit
 
                         </h5>
                     </div>
                     <div id="first-blog-desc" class="blog-desc col-xs-12 col-md-12 col-lg-12">
+                        {{desc1}}
                         May is all about vegetables on bobbyflay.com
                         and one of the most popular springtime
                         vegetables ir rhubarb. That's right, I said
@@ -334,10 +338,11 @@
                     <div id="second-blog-title" class="blog-title col-xs-12 col-md-12 col-lg-12">
                         <h5 class="blog-title">
                             Spice-Crusted Salmon: A Holiday Dinner That's As Impressive As It Is Quick
-
+                            {{title2}}
                         </h5>
                     </div>
                     <div id="second-blog-desc" class="blog-desc col-xs-12 col-md-12 col-lg-12">
+                        {{desc2}}
                         Holiday season is well underway, and you
                         know what that means: people are BUSY!
                         With that in mind, I developed a festive
@@ -410,7 +415,6 @@
 <!--<div class="cover">
     <iframe width="300" height="200" src="//www.youtube.com/embed/iSt_jWEFiuE" frameborder="0" allowfullscreen></iframe>
 </div>-->
-<script src="build/js/compilation.js"></script>
-<script src="https://use.fontawesome.com/827a1f756f.js"></script>
+
 </body>
 </html>
